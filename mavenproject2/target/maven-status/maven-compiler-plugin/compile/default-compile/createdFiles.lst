@@ -1,0 +1,6 @@
+model\Student.class
+com\mycompany\mavenproject2\JAXRSConfiguration.class
+dao\StudentDAO.class
+servlet\SelectServlet.class
+servlet\SearchServlet.class
+com\mycompany\mavenproject2\resources\JavaEE8Resource.class
